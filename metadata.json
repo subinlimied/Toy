@@ -1,0 +1,7 @@
+{
+  "name": "Murder Mystery Game Master Timer",
+  "description": "A sophisticated timer application designed for Murder Mystery games, featuring automated Korean TTS notifications for game phases and custom text-to-speech capabilities using Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
